@@ -9,7 +9,7 @@ In this project, we aim to focus mostly on cleaning the Education Statistics dat
 When we first obtained the data, it contained 886930 observations and 70 variables. A quick inspection of the data revealed it is in the wide format with the year as the wide column variables. In addition the data contains many economic policy and projections. Cleaning the data for all the policies would be cumbersome. So we decided to clean the data for a few economic variables and a education projection.
 
 The data can also be obtained from
-[Link:](https://drive.google.com/file/d/11NCc8AoaXVmQ8x3pmOrazFlIKZJ9CHG0/view?usp=sharing)
+[Link](https://drive.google.com/file/d/11NCc8AoaXVmQ8x3pmOrazFlIKZJ9CHG0/view?usp=sharing) in google drive.
 
 ## Data of interest
 
